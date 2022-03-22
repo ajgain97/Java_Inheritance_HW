@@ -1,0 +1,7 @@
+
+The color is BLUE
+The triangle is not filled
+The area is 6.000
+The perimeter is 12.000
+Triangle: side1 = 3.0, side2 = 4.0, side3 = 5.0
+Tue Mar 22 12:39:42 EDT 2022
