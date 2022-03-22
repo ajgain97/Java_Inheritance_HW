@@ -74,4 +74,4 @@ txt file will be created once program is run
 
 txt file will be placed in C:\ drive or src folder
 
-### For More Information, visit https://github.com/ajgain97/GainAHW5.git
+**For More Information, visit https://github.com/ajgain97/GainAHW5.git**
