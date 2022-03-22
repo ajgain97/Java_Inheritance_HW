@@ -1,6 +1,6 @@
 # Getting Started
 
-### Integrity Policy Statement  
+## Integrity Policy Statement  
 
 My words and actions will reflect Academic Integrity.
 
@@ -10,7 +10,7 @@ I will promote integrity in the UNCG community.
 
 Austin Gain 03/29/2022
 
-### Personal Information
+## Personal Information
 
 GainAHW5
 
@@ -18,7 +18,7 @@ Austin Gain
 
 CSC 230, Sec 3
 
-### Program Information
+## Program Information
 
 This program consists of three classes, a main class, the GeometricObject class, and a Triangle class.
 
@@ -32,7 +32,7 @@ The results will be printed to the screen and to a file called triangleOut.txt
 
 When the program is run again, the new data will be appended to the old data in the file.
 
-### Notes
+## Notes
 
 Added isTriangleValid() method to Triangle class; area would return NaN if triangle was not checked
 
@@ -46,7 +46,7 @@ Program information is in a method to clean up main method
 
 # Folder Structure
 
-### src directory
+## src directory
 
 GeometricObject.java
 
@@ -54,7 +54,7 @@ Triangle.java
 
 main.java
 
-### bin directory
+## bin directory
 
 GeometricObject.class
 
@@ -62,7 +62,7 @@ Triangle.class
 
 main.class
 
-### vscode directory
+## vscode directory
 
 settings.json (only applicable for use in MS Visual Studio)
 
